@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>k0d3r</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/srinivasadotnet/ValidationsCustomActivities/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/srinivasadotnet/ValidationsCustomActivities</projectUrl>
+    <iconUrl>https://github.com/srinivasadotnet/SharePointCustomActivity/blob/master/SharePointListActivity/medium.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Data Validation Framework Custom Activities for UI Path Studio</description>
+    <releaseNotes>Validation Framework CustomActivities</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>ValidationsCustomActivities UIPath</tags>
+  </metadata>
+</package>
